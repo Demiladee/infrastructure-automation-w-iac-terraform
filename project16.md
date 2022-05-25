@@ -37,3 +37,40 @@
 ![](images/terraformapplyawsvpc8.png)
 
 ![](images/terraformapplyawssubnets8.png)
+
+- ran the destroy command to generate better scripts for the infrastructure automation
+
+![](images/terraformdestroy9.png)
+
+![](images/terraformdestroy99.png)
+
+![](images/terraformdestroy999.png)
+
+![](images/terraformdestroysubnets9999.png)
+
+- created scripts that included variables to quicken the build process
+- added a null to test the build response to the subnet specification. the response was as imagined - it returned a plan to build 6 subnets as was designed in the script
+
+![](images/terraformplannulltest10.png)
+
+- added final tweaks to the scripts\
+- separated them into various files
+- ran the final command
+
+![](images/maintffinal1.png)
+
+![](images/terraformtfvarsfinal1.png)
+
+![](images/variablestffinal1.png)
+
+![](images/final1.png)
+
+![](images/final2.png)
+
+![](images/final3.png)
+
+![](images/final33.png)
+
+![](images/final4.png)
+
+![](images/final44.png)
