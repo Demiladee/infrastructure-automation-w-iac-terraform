@@ -22,4 +22,18 @@
 
 ![](images/terraformplan5.png)
 
+- added additional scripts to create 2 public subnets
+- formatted, validated and created a plan of the scripts
+- ran the apply command to see the end result
 
+![](images/publicsubnets6.png)
+
+![](images/terraformfmtvalidateplan7.png)
+
+![](images/terraformfmtvalidateplan77.png)
+
+![](images/terraformapply8.png)
+
+![](images/terraformapplyawsvpc8.png)
+
+![](images/terraformapplyawssubnets8.png)
